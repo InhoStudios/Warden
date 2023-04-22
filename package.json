@@ -1,0 +1,25 @@
+{
+  "name": "warden",
+  "version": "1.0.0",
+  "description": "Discord bot for custom role collectables in Inhotec Towers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InhoStudios/Warden.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InhoStudios/Warden/issues"
+  },
+  "homepage": "https://github.com/InhoStudios/Warden#readme",
+  "dependencies": {
+    "discord.js": "^14.9.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.38.0"
+  }
+}
